@@ -608,13 +608,13 @@ a {
 
 
 h5 {
-    color:white;
+    color:white !important;
 }
  
 
 h1 {
     z-index: 99;
-    color:white;
+    color:white !important;
     width: 100%;
     margin: 0 auto;
     text-align: center;

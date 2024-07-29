@@ -265,7 +265,7 @@ h2 {
   .scarle-card {
     background: linear-gradient(to bottom, #FAE1EF, #6f55e7);
     background: 
-    linear-gradient(#F4CF92, #beb0ff),
+    linear-gradient(#FFD376, #ff6363),
     url('../img/card-bg.png');
     background-blend-mode: screen;
   background-size: cover;
@@ -458,7 +458,7 @@ h1 {
 }
 
 
-button {
+button.subscribe {
     position: absolute;
     right:5%;
     bottom:30%;
@@ -475,7 +475,7 @@ button {
     animation: fadein 1s ease-out, slidedown2 1s ease-out;
 }
 
-button:hover {
+button.subscribe:hover {
     transform: translate(5px, 5px);
     box-shadow: 0 0;
     background-color: #cea449;

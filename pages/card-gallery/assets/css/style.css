@@ -198,13 +198,7 @@ a {
     text-align: center;
 }
 
-button:hover, .ad-container:hover{
-    box-shadow: 
-    -1px -1px 10px #ff8dd97b,
-    1px -1px 10px #ff8dd97b,
-    -1px  1px 10px #ff8dd97b,
-    1px  1px 10px #ff8dd97b;
-}
+
 
 
 .ad-container { 
