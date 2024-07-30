@@ -234,8 +234,7 @@ filter: invert(100%);
     z-index: 99999 !important;
 }
 
-
-button {
+.watch-btn {
     bottom:1%;
     border-radius: 40px;
     border: 2px solid white;
